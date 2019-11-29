@@ -1,0 +1,25 @@
+**/.settings/
+
+
+**/bin/
+
+**/.project
+
+**/.metadata
+/
+**/.classpath
+**target
+
+**/AM.log*
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+# Logs
+logs/
