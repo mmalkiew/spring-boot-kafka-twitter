@@ -13,7 +13,7 @@
 
     <properties>
         <hbc.core.version>2.2.0</hbc.core.version>
-        <kafka.client.version>2.3.1</kafka.client.version>
+        <kafka.client.version>2.6.3</kafka.client.version>
     </properties>
 
     <dependencies>
